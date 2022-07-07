@@ -1,4 +1,4 @@
-# grupo-4
+# Eventops
 Eventops es una aplicación que conecta personas con los mismos intereses para realizar actividades grupales.
 
 
